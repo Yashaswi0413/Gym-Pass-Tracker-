@@ -1,4 +1,3 @@
-// import hero.jpg from '../assets/hero.jpg';
 export default function Hero() {
     return (
     <section className="bg-gray-50 py-16 px-6 flex flex-col md:flex-row items-center justify-between">
