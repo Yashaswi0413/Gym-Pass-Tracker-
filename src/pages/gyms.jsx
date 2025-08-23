@@ -1,28 +1,7 @@
 import React from "react";
 import GymCard from "../components/GymCard";
-
-const gymsData = [
-  {
-    id: 1,
-    name: "Iron Paradise Gym",
-    address: "123 MG Road, Bangalore, India",
-    contact: "+91 9876543210",
-    dailyPassPrice: 300,
-    monthlyPassPrice: 1500,
-    hasUnusedPass: true,
-    image: "https://via.placeholder.com/400x250",
-  },
-  {
-    id: 2,
-    name: "Muscle Factory",
-    address: "456 Brigade Road, Bangalore, India",
-    contact: "+91 9123456789",
-    dailyPassPrice: 250,
-    monthlyPassPrice: 1400,
-    hasUnusedPass: false,
-    image: "https://via.placeholder.com/400x250",
-  },
-];
+import gymsData from "../../dummy_data/gyms.json"
+// const gymsData = gymsData
 
 const Gyms = () => {
   return (

@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "name": "Iron Paradise Gym",
+        "address": "123 MG Road, Bangalore, India",
+        "contact": "+91 9876543210",
+        "dailyPassPrice": 300,
+        "monthlyPassPrice": 1500,
+        "hasUnusedPass": true,
+        "image": "https://via.placeholder.com/400x250"
+    },
+    {
+        "id": 2,
+        "name": "Muscle Factory",
+        "address": "456 Brigade Road, Bangalore, India",
+        "contact": "+91 9123456789",
+        "dailyPassPrice": 250,
+        "monthlyPassPrice": 1400,
+        "hasUnusedPass": false,
+        "image": "https://via.placeholder.com/400x250"
+    },
+    {
+        "id": 3,
+        "name": "Fitness First",
+        "address": "789 Indiranagar, Bangalore, India",
+        "contact": "+91 9988776655",
+        "dailyPassPrice": 350,
+        "monthlyPassPrice": 1600,
+        "hasUnusedPass": true,
+        "image": "https://via.placeholder.com/400x250"
+    },
+    {
+        "id": 4,
+        "name": "Gold’s Gym",
+        "address": "12 Koramangala, Bangalore, India",
+        "contact": "+91 8877665544",
+        "dailyPassPrice": 400,
+        "monthlyPassPrice": 1700,
+        "hasUnusedPass": false,
+        "image": "https://via.placeholder.com/400x250"
+    },
+    {
+        "id": 5,
+        "name": "Anytime Fitness",
+        "address": "15 Whitefield, Bangalore, India",
+        "contact": "+91 7766554433",
+        "dailyPassPrice": 280,
+        "monthlyPassPrice": 1450,
+        "hasUnusedPass": true,
+        "image": "https://via.placeholder.com/400x250"
+    },
+    {
+        "id": 6,
+        "name": "Snap Fitness",
+        "address": "21 HSR Layout, Bangalore, India",
+        "contact": "+91 6655443322",
+        "dailyPassPrice": 320,
+        "monthlyPassPrice": 1550,
+        "hasUnusedPass": false,
+        "image": "https://via.placeholder.com/400x250"
+    },
+    {
+        "id": 7,
+        "name": "Body Power Gym",
+        "address": "9 Jayanagar, Bangalore, India",
+        "contact": "+91 7788996655",
+        "dailyPassPrice": 300,
+        "monthlyPassPrice": 1500,
+        "hasUnusedPass": true,
+        "image": "https://via.placeholder.com/400x250"
+    },
+    {
+        "id": 8,
+        "name": "Hammer Strength Gym",
+        "address": "55 BTM Layout, Bangalore, India",
+        "contact": "+91 8899776655",
+        "dailyPassPrice": 260,
+        "monthlyPassPrice": 1400,
+        "hasUnusedPass": false,
+        "image": "https://via.placeholder.com/400x250"
+    },
+    {
+        "id": 9,
+        "name": "Reebok CrossFit",
+        "address": "10 Malleshwaram, Bangalore, India",
+        "contact": "+91 9900112233",
+        "dailyPassPrice": 450,
+        "monthlyPassPrice": 1800,
+        "hasUnusedPass": true,
+        "image": "https://via.placeholder.com/400x250"
+    },
+    {
+        "id": 10,
+        "name": "Pro Fitness",
+        "address": "65 Electronic City, Bangalore, India",
+        "contact": "+91 9812345678",
+        "dailyPassPrice": 240,
+        "monthlyPassPrice": 1350,
+        "hasUnusedPass": false,
+        "image": "https://via.placeholder.com/400x250"
+    },
+    {
+        "id": 11,
+        "name": "Xtreme Gym",
+        "address": "14 Rajajinagar, Bangalore, India",
+        "contact": "+91 9345678901",
+        "dailyPassPrice": 350,
+        "monthlyPassPrice": 1650,
+        "hasUnusedPass": true,
+        "image": "https://via.placeholder.com/400x250"
+    },
+    {
+        "id": 12,
+        "name": "Max Fitness",
+        "address": "19 Banashankari, Bangalore, India",
+        "contact": "+91 9876001234",
+        "dailyPassPrice": 310,
+        "monthlyPassPrice": 1500,
+        "hasUnusedPass": false,
+        "image": "https://via.placeholder.com/400x250"
+    },
+    {
+        "id": 13,
+        "name": "Pulse 8 Gym",
+        "address": "77 JP Nagar, Bangalore, India",
+        "contact": "+91 9001234567",
+        "dailyPassPrice": 290,
+        "monthlyPassPrice": 1450,
+        "hasUnusedPass": true,
+        "image": "https://via.placeholder.com/400x250"
+    },
+    {
+        "id": 14,
+        "name": "Titan Fitness",
+        "address": "101 Hebbal, Bangalore, India",
+        "contact": "+91 9877001111",
+        "dailyPassPrice": 360,
+        "monthlyPassPrice": 1600,
+        "hasUnusedPass": false,
+        "image": "https://via.placeholder.com/400x250"
+    },
+    {
+        "id": 15,
+        "name": "Metro Fitness",
+        "address": "5 Yelahanka, Bangalore, India",
+        "contact": "+91 9123450012",
+        "dailyPassPrice": 270,
+        "monthlyPassPrice": 1420,
+        "hasUnusedPass": true,
+        "image": "https://via.placeholder.com/400x250"
+    }
+]
