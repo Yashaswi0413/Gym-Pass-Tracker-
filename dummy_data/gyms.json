@@ -7,7 +7,7 @@
         "dailyPassPrice": 300,
         "monthlyPassPrice": 1500,
         "hasUnusedPass": true,
-        "image": "https://via.placeholder.com/400x250"
+        "image": "../assets/gym1.jpg"
     },
     {
         "id": 2,
@@ -17,7 +17,7 @@
         "dailyPassPrice": 250,
         "monthlyPassPrice": 1400,
         "hasUnusedPass": false,
-        "image": "https://via.placeholder.com/400x250"
+        "image": "../assets/gym2.jpg"
     },
     {
         "id": 3,
@@ -27,7 +27,7 @@
         "dailyPassPrice": 350,
         "monthlyPassPrice": 1600,
         "hasUnusedPass": true,
-        "image": "https://via.placeholder.com/400x250"
+        "image": "../assets/gym3.jpg"
     },
     {
         "id": 4,
@@ -37,7 +37,7 @@
         "dailyPassPrice": 400,
         "monthlyPassPrice": 1700,
         "hasUnusedPass": false,
-        "image": "https://via.placeholder.com/400x250"
+        "image": "../assets/gym1.jpg"
     },
     {
         "id": 5,
@@ -47,7 +47,7 @@
         "dailyPassPrice": 280,
         "monthlyPassPrice": 1450,
         "hasUnusedPass": true,
-        "image": "https://via.placeholder.com/400x250"
+        "image": "../assets/gym2.jpg"
     },
     {
         "id": 6,
@@ -57,7 +57,7 @@
         "dailyPassPrice": 320,
         "monthlyPassPrice": 1550,
         "hasUnusedPass": false,
-        "image": "https://via.placeholder.com/400x250"
+        "image": "../assets/gym3.jpg"
     },
     {
         "id": 7,
@@ -67,7 +67,7 @@
         "dailyPassPrice": 300,
         "monthlyPassPrice": 1500,
         "hasUnusedPass": true,
-        "image": "https://via.placeholder.com/400x250"
+        "image": "../assets/gym1.jpg"
     },
     {
         "id": 8,
@@ -77,7 +77,7 @@
         "dailyPassPrice": 260,
         "monthlyPassPrice": 1400,
         "hasUnusedPass": false,
-        "image": "https://via.placeholder.com/400x250"
+        "image": "../assets/gym2.jpg"
     },
     {
         "id": 9,
@@ -87,7 +87,7 @@
         "dailyPassPrice": 450,
         "monthlyPassPrice": 1800,
         "hasUnusedPass": true,
-        "image": "https://via.placeholder.com/400x250"
+        "image": "../assets/gym3.jpg"
     },
     {
         "id": 10,
@@ -97,7 +97,7 @@
         "dailyPassPrice": 240,
         "monthlyPassPrice": 1350,
         "hasUnusedPass": false,
-        "image": "https://via.placeholder.com/400x250"
+        "image": "../assets/gym1.jpg"
     },
     {
         "id": 11,
@@ -107,7 +107,7 @@
         "dailyPassPrice": 350,
         "monthlyPassPrice": 1650,
         "hasUnusedPass": true,
-        "image": "https://via.placeholder.com/400x250"
+        "image": "../assets/gym2.jpg"
     },
     {
         "id": 12,
@@ -117,7 +117,7 @@
         "dailyPassPrice": 310,
         "monthlyPassPrice": 1500,
         "hasUnusedPass": false,
-        "image": "https://via.placeholder.com/400x250"
+        "image": "../assets/gym3.jpg"
     },
     {
         "id": 13,
@@ -127,7 +127,7 @@
         "dailyPassPrice": 290,
         "monthlyPassPrice": 1450,
         "hasUnusedPass": true,
-        "image": "https://via.placeholder.com/400x250"
+        "image": "../assets/gym1.jpg"
     },
     {
         "id": 14,
@@ -137,7 +137,7 @@
         "dailyPassPrice": 360,
         "monthlyPassPrice": 1600,
         "hasUnusedPass": false,
-        "image": "https://via.placeholder.com/400x250"
+        "image": "../assets/gym2.jpg"
     },
     {
         "id": 15,
@@ -147,6 +147,6 @@
         "dailyPassPrice": 270,
         "monthlyPassPrice": 1420,
         "hasUnusedPass": true,
-        "image": "https://via.placeholder.com/400x250"
+        "image": "../assets/gym3.jpg"
     }
 ]
