@@ -1,6 +1,9 @@
 import React from "react";
+import { useState } from "react";
+import BuyPassModal from "./modals/BuyPassModal";
 
 const GymCard = ({ gym }) => {
+   const [isBuyOpen, setIsBuyOpen] = useState(false);
   return (
     <div className="bg-white rounded-2xl shadow-md overflow-hidden w-80">
       <img
@@ -24,7 +27,8 @@ const GymCard = ({ gym }) => {
           <p className="mt-2 text-green-600 font-semibold">🎟 Unused Pass Available</p>
         )}
         <div className="flex justify-between mt-4">
-          <button className="px-4 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600">
+          <button className="px-4 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600"
+          onClick={() => setIsBuyOpen(true)}>
             Buy Pass
           </button>
           <button className="px-4 py-2 bg-green-500 text-white rounded-lg hover:bg-green-600">
@@ -32,6 +36,11 @@ const GymCard = ({ gym }) => {
           </button>
         </div>
       </div>
+        <BuyPassModal
+        gym={gym}
+        isOpen={isBuyOpen}
+        onClose={() => setIsBuyOpen(false)}
+      />
     </div>
   );
 };

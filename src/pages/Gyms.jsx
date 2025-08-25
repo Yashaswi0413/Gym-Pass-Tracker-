@@ -1,7 +1,6 @@
 import React from "react";
 import GymCard from "../components/GymCard";
 import gymsData from "../../dummy_data/gyms.json"
-// const gymsData = gymsData
 
 const Gyms = () => {
   return (
