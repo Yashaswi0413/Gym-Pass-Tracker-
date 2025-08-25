@@ -1,3 +1,4 @@
+import hermoImg from '../assets/hero.jpg';
 export default function Hero() {
     return (
     <section className="bg-gray-50 py-16 px-6 flex flex-col md:flex-row items-center justify-between">
@@ -16,7 +17,7 @@ export default function Hero() {
 
 <div className="mt-10 md:mt-0 md:w-1/3">
     <img 
-      src="../../public/hero.jpg" 
+     src= {hermoImg}
       alt="Fitness Illustration" 
       className="rounded-xl shadow-lg"
     />
